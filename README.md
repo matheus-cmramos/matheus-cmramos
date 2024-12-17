@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Matheus Ramos  
-- 👀 I’m currently a undergrad student in Statistics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🎓 Physics undergrad at Universidade Federal do ABC (UFABC), Brazil
+- 💡 Researching Deep Learning methods applied to particle physics
 - 📫 How to reach me ...
 
 <!---
