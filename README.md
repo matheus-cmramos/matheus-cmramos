@@ -1,9 +1,10 @@
-# 👋 Hi! I'm Matheus Ramos
+ # 👋 Hi! I'm Matheus Ramos
 
-🎓 Studying Physics @ UFABC
-💼 Working as a credit analyst 
+🎓 Studying Physics @ UFABC  
+
+💼 Working as a credit analyst  
+
 🔍 Specializing in DCM, risk and quant research
-
 
 ## 🧠 Interests
 - Financial modeling
