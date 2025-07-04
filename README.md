@@ -4,6 +4,7 @@
 💼 Working as a credit analyst 
 🔍 Specializing in DCM, risk and quant research
 
+
 ## 🧠 Interests
 - Financial modeling
 - Quant strategies
