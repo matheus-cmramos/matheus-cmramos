@@ -1,7 +1,20 @@
-- 👋 Hi, I’m Matheus Ramos  
-- 🎓 Physics undergrad at Universidade Federal do ABC (UFABC), Brazil
-- 💡 Researching Deep Learning methods applied to particle physics
-- 📫 How to reach me ...
+# 👋 Hi! I'm Matheus Ramos
+🎓 Studying Physics @ UFABC
+💼 Working as a credit analyst 
+🔍 Specializing in DCM, risk and quant research
+
+## 🧠 Interests
+- Financial modeling
+- Quant strategies
+- Risk management
+- Applying physics and math in finance (econophysics, stochastic calculus, statistics)
+
+## 🧰 Skills 
+- Python (pandas, numpy, data visualization)
+- Excel
+- Financial products
+
+
 
 <!---
 matheus-cmramos/matheus-cmramos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
